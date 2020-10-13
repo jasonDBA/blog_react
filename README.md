@@ -1,4 +1,6 @@
 # blog_react
 
-- Recent Updates: Oct 8, 2020
-- Commit: "Create a DB Schema"
+- Recent Commit
+Date:   Thu Oct 8 16:38:35 2020 -0400
+
+    Connect to Mongo DB cluster
